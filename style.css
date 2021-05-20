@@ -1,0 +1,44 @@
+#heading{
+    width: 100%;
+    font-size: 25px;
+}
+#heading_2{
+    font-size: 15px;
+    color: black;
+}
+#button_play{
+    width: 100px;
+    font-size: 20px;
+}
+#disk_left{
+    height: 200px;
+}
+#disk_right{
+    float: right;
+    height:200px;
+}
+#speed{
+    float: left;
+}
+#div_speed{
+    float: left;
+}
+body{
+    background-size: cover;
+}
+#div_volume{
+    float: right;
+}
+canvas{
+    border: 10px solid darkgreen;
+    box-shadow: 5px 5px 37px darkorange;
+    border-radius: 50px;
+}
+#footer{
+    background-color:grey;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-weight: bold;
+    color: white;
+}
